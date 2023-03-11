@@ -14,6 +14,10 @@
 
 **Besides doing all that cool stuff, I make techno music, study the universe and read books with my cat.**
 
+
+<a href="https://github.com/CamoCatX">
+    <img src="https://komarev.com/ghpvc/?username=CamoCatX" alt="page views" />
+  </a>
 <!--
 **CamoCatX** is a 😻 _special_ 😻 repository because its `README.md` (this file) appears on your GitHub profile.
 
