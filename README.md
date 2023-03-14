@@ -2,7 +2,7 @@
   <img align="left" src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-size_restricted.gif" width="100"></h1>
  _____________________________________________________________________________________________________________________________________
   <a href="https://github.com/CamoCatX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CamoCatX&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CamoCatX&count_private=true&layout=compact&show_icons=true&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/CamoCatX">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamoCatX&count_private=true&layout=compact&theme=chartreuse-dark&langs_count=13"width="375" />
