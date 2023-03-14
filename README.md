@@ -1,10 +1,10 @@
-<h1>Hello there... <img src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-size_restricted.gif" width="50"></h1>
+<h1>Hello there... <img align="right" src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-size_restricted.gif" width="100"></h1>
 
   <a href="https://github.com/CamoCatX">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CamoCatX&count_private=true&show_icons=true&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/CamoCatX">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamoCatX&layout=compact&theme=chartreuse-dark&langs_count=13" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamoCatX&count_private=true&layout=compact&theme=chartreuse-dark&langs_count=13"width="420" />
   </a>
 
 <br>
@@ -18,6 +18,8 @@
 <a href="https://github.com/CamoCatX">
     <img src="https://komarev.com/ghpvc/?username=CamoCatX" alt="page views" />
   </a>
+  
+  ![](https://hit.yhype.me/github/profile?user_id=69330490)
 <!--
 **CamoCatX** is a 😻 _special_ 😻 repository because its `README.md` (this file) appears on your GitHub profile.
 
