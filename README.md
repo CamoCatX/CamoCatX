@@ -1,6 +1,6 @@
 <h1> |Hello there...
   <img align="left" src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-size_restricted.gif" width="100"></h1>
- _______________________________________________________________________________________________________________________________________________
+ ________________________________________________________________________________________________________________________________________________
   <a href="https://github.com/CamoCatX">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CamoCatX&count_private=true&layout=compact&show_icons=true&theme=chartreuse-dark" />
   </a>
