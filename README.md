@@ -10,7 +10,7 @@
 
 <br>
 
-*|________________________________________________________________________________________________________________________________________________|*                 
+*|_________________________________________________________________________________________________________________________________________________|*                 
 **I am a programmer, hacker, cat lover, and a lot of things in between. I love to see how things work on the inside, code some really remarkable things, manipiate computer code to my likeing and make programs that do that for me!** 😼
 **Besides doing all that cool stuff, I play on my keyboard, study the universe and read books with my cat.**
 
