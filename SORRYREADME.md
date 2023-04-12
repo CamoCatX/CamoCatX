@@ -9,7 +9,6 @@
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
 </p>
-
 <p></p>
 <p></p>
 </p>
