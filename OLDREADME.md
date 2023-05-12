@@ -11,7 +11,7 @@
 <br>
 
 *|________________________________________________________________________________________________________________________________________________|*                 
-**I am a programmer, hacker, cat lover, and a lot of things in between. I love to see how things work on the inside, code some really remarkable things, manipiate computer code to my likeing and make programs that do that for me!** 😼
+**I am a programmer, hacker, cat lover, and a lot of things in between. I love to see how things work on the inside, code some really remarkable things, manipulate computer code to my likeing and make programs that do that for me!** 😼
 
 *|*
 <a href="https://github.com/CamoCatX">
