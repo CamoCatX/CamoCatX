@@ -14,6 +14,17 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=CamoCatX&include_all_commits=true&count_private=true&layout=compact&show_icons=true&theme=chartreuse-dark" />
 </picture>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CamoCatX&count_private=true&layout=compact&theme=chartreuse-dark&langs_count=8"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CamoCatX&count_private=true&layout=compact&theme=transparent&langs_count=8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamoCatX&count_private=true&layout=compact&langs_count=8" />
+</picture>
 *|____________________________________________________________________________________________________________________________________|*     
  <p align="center"> 
 <img src="https://profile-counter.glitch.me/CamoCatX/count.svg">  
