@@ -5,14 +5,14 @@
 <br>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CamoCatX&include_all_commits=true&count_private=true&layout=compact&show_icons=true&theme=chartreuse-dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=CamoCatX&include_all_commits=true&count_private=true&layout=compact&show_icons=true&theme=chartreuse-dark&hide_rank=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CamoCatX&include_all_commits=true&count_private=true&layout=compact&show_icons=true&transparent"
+    srcset="https://github-readme-stats.vercel.app/api?username=CamoCatX&include_all_commits=true&count_private=true&layout=compact&show_icons=true&transparent&hide_rank=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=CamoCatX&include_all_commits=true&count_private=true&layout=compact&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CamoCatX&include_all_commits=true&count_private=true&layout=compact&show_icons=true&theme=chartreuse-dark&hide_rank=true" />
 </picture>
   <picture>
   <source
