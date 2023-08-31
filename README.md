@@ -29,11 +29,11 @@
  <p align="center"> 
 <img src="https://profile-counter.glitch.me/CamoCatX/count.svg">  
 
-<p align="right">
+<p align="left">
 <details>	
   <summary><b>Metrics</b></summary>
   	<ul>
-<img align="right" src="/metrics.terminal.svg" alt="Metrics" width="500">
+<img align="left" src="/metrics.terminal.svg" alt="Metrics" width="500">
 <p align="center">
 	 </p>
 	</ul>	
