@@ -14,7 +14,24 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
           template: terminal
           filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, metadata
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.gists.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_gists: yes
+      - uses: lowlighter/metrics@latest
+        with:
+           filename: metrics.plugin.lines.history.svg
+           token: ${{ secrets.METRICS_TOKEN }}
+           base: ""
+           plugin_lines: yes
+           plugin_lines_sections: repositories, history
+           plugin_lines_history_limit: 1
