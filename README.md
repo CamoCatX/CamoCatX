@@ -4,10 +4,6 @@
  </a>
  ____________________________________________________________________________________________________________________________________
 
- <p align="center"> 
-<img src="https://profile-counter.glitch.me/CamoCatX/count.svg">  
+<img align="center" src="/metrics.terminal.svg" alt="Metrics" width="500">
 
-<p align="left">
-<img align="left" src="/metrics.terminal.svg" alt="Metrics" width="500">
-<p align="center">
-</p>
+![alt texxt](image2.png)
