@@ -4,8 +4,13 @@
  </a>
  ____________________________________________________________________________________________________________________________________
 
- <img align="center" src="/metrics.terminal.svg" alt="Metrics" width="500">
- 
+ <table width="100%"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img align="left" src="/metrics.terminal.svg" width="500" />
+    </td>
+  </tr>
+</table>
  ____________________________________________________________________________________________________________________________________
 
 ![alt texxt](image2.png)
