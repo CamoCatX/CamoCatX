@@ -58,7 +58,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -3.45k +4.70k @@</span>
+<span class="diff">@@ -832 +2.58k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">camocatx@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>CSS         </b> [###########         ] 51.85%
 <b>NIX         </b> [##                  ] 8.90 %
