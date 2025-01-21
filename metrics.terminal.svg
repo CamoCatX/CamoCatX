@@ -50,7 +50,7 @@
   <b>  512</b> repositories starred
   <b>   34</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">camocatx@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 51 repositories - 25 forks - 545 MB
+<div class="stdin"><span class="ps1-path">camocatx@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 51 repositories - 25 forks - 543 MB
 -r--  <b>   11</b>  stargazers
 -r--  <b>    2</b>  forks
 -r--  <b>   73</b>  watchers
