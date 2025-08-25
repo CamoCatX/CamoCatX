@@ -50,7 +50,7 @@
   <b>  513</b> repositories starred
   <b>   28</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">camocatx@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 51 repositories - 25 forks - 544 MB
+<div class="stdin"><span class="ps1-path">camocatx@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 51 repositories - 25 forks - 545 MB
 -r--  <b>   12</b>  stargazers
 -r--  <b>    2</b>  forks
 -r--  <b>   73</b>  watchers
@@ -58,7 +58,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -0 +5 @@</span>
+<span class="diff">@@ -0 +731 @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">camocatx@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>CSS         </b> [###########         ] 51.16%
 <b>NIX         </b> [##                  ] 8.78 %
