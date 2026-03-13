@@ -39,8 +39,8 @@
 </div>
 <div class="stdin"><span class="ps1-path">camocatx@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
   <b>  926</b> commits
-  <b>    3</b> pull requests reviewed
-  <b>   39</b> pull requests opened
+  <b>    7</b> pull requests reviewed
+  <b>   74</b> pull requests opened
   <b>   20</b> issues opened
   <b>   68</b> issue comments
 
@@ -58,7 +58,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -0 +0 @@</span>
+<span class="diff">@@ -44 +108 @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">camocatx@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>CSS         </b> [###########         ] 51.16%
 <b>NIX         </b> [##                  ] 8.78 %
