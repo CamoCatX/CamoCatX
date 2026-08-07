@@ -33,7 +33,7 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">camocatx@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>CamoCatX</b> registered=5y, uid=0490, gid=2
+<pre><div class="stdin"><span class="ps1-path">camocatx@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>CamoCatX</b> registered=6y, uid=0490, gid=2
   contributed to 0 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>27</b> users
 </div>
@@ -58,7 +58,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -31.3k +56k @@</span>
+<span class="diff">@@ -695k +1.61m @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">camocatx@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>CSS         </b> [###########         ] 51.16%
 <b>NIX         </b> [##                  ] 8.78 %
